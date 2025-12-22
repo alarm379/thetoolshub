@@ -59,11 +59,8 @@ export default function RootLayout({
 					`,
 					}}
 				/>
-				<script
-					async
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXXXX'
-					crossOrigin='anonymous'
-				/>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6204043439695636"
+     crossorigin="anonymous"></script>
 			</head>
 			<body className={inter.className} suppressHydrationWarning>
 				<Header />
